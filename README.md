@@ -6,6 +6,4 @@
  
 https://tree.taiga.io/project/knight-of-design-awesome
 
-
-
 BOO YAH!
